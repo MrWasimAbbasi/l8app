@@ -1,5 +1,5 @@
 {
-    "name": "wasim/laravel-with-adminlte",
+    "name": "laravel/laravel",
     "type": "project",
     "description": "The Laravel 8 Framework Configured With Admin LTE 2 Theme.",
     "keywords": ["framework", "laravel"],
