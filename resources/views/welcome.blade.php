@@ -1,8 +1,6 @@
 @extends('layouts.app')
 
-@section('title')
-    <h1>Hello</h1>
-@endsection
+@section('title','Dashboard')
 @section('sidebar')
     @parent
 

@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "wasim/laravel-with-adminlte",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "The Laravel 8 Framework Configured With Admin LTE 2 Theme.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
